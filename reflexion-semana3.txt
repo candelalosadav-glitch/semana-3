@@ -1,0 +1,8 @@
+Pienso que es muy importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git, porque ayuda a tener un mejor control del trabajo realizado. 
+Muchas veces durante el desarrollo se pueden cometer errores o borrar información importante, y gracias a Git es posible recuperar versiones anteriores del proyecto. 
+También facilita mucho el trabajo en equipo, ya que varias personas pueden trabajar al mismo tiempo sin desordenar los archivos. 
+Otra ventaja es que permite saber quién hizo cada cambio y cuándo se realizó. 
+Esto ayuda a mantener una mejor organización y una mayor seguridad en el proyecto. 
+Además, usar Git y GitHub hace que compartir los proyectos sea más fácil y profesional. 
+Considero que estas herramientas son muy útiles para cualquier desarrollador, porque permiten trabajar de una forma más ordenada y eficiente. 
+Por eso Git se ha convertido en una herramienta fundamental en el mundo de la programación y el desarrollo de software.
